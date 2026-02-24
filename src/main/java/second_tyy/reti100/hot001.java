@@ -1,9 +1,7 @@
-package second_tyy.hot100;
+package second_tyy.reti100;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 
 // 两数之和
 

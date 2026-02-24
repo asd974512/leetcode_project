@@ -1,8 +1,7 @@
-package second_tyy.hot100;
+package second_tyy.reti100;
 
 //49. 字母异位词分组
 
-import javax.swing.*;
 import java.util.*;
 
 /**
